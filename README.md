@@ -9,6 +9,19 @@ Background in robotics and automation (PLC/SCADA), currently deep-diving into **
 
 ---
 
+### ⚡ GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=oswin0829&show_icons=true&theme=radical" alt="Oswin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oswin0829&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswin-cheong-040292225/)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oswin0829@gmail.com)
+
+---
+
 ### 🛠️ The Tech Stack
 
 **Languages & Frameworks**
@@ -68,13 +81,3 @@ Background in robotics and automation (PLC/SCADA), currently deep-diving into **
 **The Challenge:** Moving from "it works on my machine" to production.
 - **Solution:** Containerized Python apps deployed on **GCP Cloud Run** via Docker.
 - **Tech:** Docker, Google Cloud Platform, CI/CD.
-
----
-
-### ⚡ GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oswin0829&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oswin0829&layout=compact&theme=radical)
-
----
-
-[Linkedin Badge](https://www.linkedin.com/in/oswin-cheong-040292225/) • [Email Badge](mailto:oswin0829@gmail.com)****
