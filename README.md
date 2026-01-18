@@ -1,4 +1,4 @@
-# Hi there, I'm [Oswin Cheong]! 👋
+# Hi there, I'm Oswin Cheong! 
 
 ## 🤖 Mechatronics Engineer turning AI Agent Developer
 > *Bridging the gap between physical hardware and intelligent automation.*
