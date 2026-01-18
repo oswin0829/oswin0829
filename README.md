@@ -19,7 +19,7 @@ I am a **Mechatronics Engineering graduate (Monash University)** pivoting into *
 
 ### 🚀 Featured Projects
 
-#### 👁️ [Edge AI: ANPR on Raspberry Pi 5](LINK_TO_REPO)
+#### 👁️ [Edge AI: ANPR on Raspberry Pi 5](https://github.com/oswin0829/python-rag-chatbot)
 **The Challenge:** Running heavy Transformer models on constrained hardware.
 - **Solution:** Optimized an Automatic Number Plate Recognition system for the RPi 5.
 - **Tech:** Python, PyTorch, OpenCV, Raspberry Pi.
