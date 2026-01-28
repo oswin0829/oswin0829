@@ -26,7 +26,6 @@ Background in robotics and automation (PLC/SCADA), currently deep-diving into **
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C2C33?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-CB3837?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Coze](https://img.shields.io/badge/Coze-673AB7?style=for-the-badge)
 
 <br>
 
